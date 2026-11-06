@@ -1,0 +1,10 @@
+# Project secrets and generated mobile native project
+backend/.env
+flutter_app/android/
+flutter_app/ios/
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.flutter-plugins*
+flutter_app/.packages
+flutter_app/pubspec.lock
+**/.DS_Store
